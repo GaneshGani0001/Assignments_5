@@ -1,0 +1,2 @@
+import math
+print("Sin60=",math.sin(60),"\ncos(pi)=",math.cos(math.pi),"\ntan(90)=",math.tan(90),"\nangle of sin(0.8660254037844386):",math.asin(0.8660254037844386),"\n5^8:",math.pow(5,8),"\n square root of 400:",math.sqrt(400),"\n5^e:",math.pow(5,math.e),"\n Log(1024), base 2:",math.log2(1024),"\nLog(1024), base 10:",math.log10(1024),"\nceiling value of 23.56:",math.ceil(23.56),"\n floting value of 23.56:",math.floor(23.56))
